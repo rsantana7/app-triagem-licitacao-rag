@@ -46,8 +46,8 @@ with st.sidebar.expander("❓ Como criar sua API Key"):
     """)
 
 # --- TELA CENTRAL ---
-st.title("⚖️ Sistema de Triagem e Auditoria de Editais (RAG Híbrido)")
-st.subheader("Pipeline Inteligente com Validação Preventiva de Credenciais e Segurança UX/UI")
+st.title("⚖️ Sistema de Triagem e Auditoria de Editais de Licitação")
+st.subheader("Pipeline inteligente com RAG, multiplos PDFs, SLM e LLM")
 st.markdown("---")
 
 # Seção de Carregamento de Arquivos
