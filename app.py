@@ -46,7 +46,7 @@ with st.sidebar.expander("❓ Como criar sua API Key"):
     """)
 
 # --- TELA CENTRAL ---
-st.title("⚖️ Sistema de Triagem e Auditoria de Editais de Licitação")
+st.title("⚖️ Sistema de Triagem e Auditoria de Editais de Licitação (PDFs)")
 st.subheader("Pipeline inteligente com RAG, multiplos PDFs, SLM e LLM")
 st.markdown("---")
 
